@@ -24,5 +24,6 @@ modelo_simulink: cadena cinemática en simulink para implementar simulaciones.
 Piezas:
 El diseño de las piezas se ha hecho sin tolerancias por cuestiones de tiempo. 
 En el caso del rodamiento es recomendable añadirle una expansión horizontal entre -0,1 y -0,2 (según la máquina)
-Para el resto de piezas no debería ser necesario añadir expansión horizontal. En cualquier caso yo le puse -0,1 a los segmentos y a la base para que el rodamiento entrase sin problemas.
+Para el resto de piezas no debería ser necesario añadir expansión horizontal. En cualquier caso yo le puse -0,1 a 
+los segmentos y a la base para que el rodamiento entrase sin problemas.
 </Pre>
