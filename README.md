@@ -27,3 +27,8 @@ En el caso del rodamiento es recomendable añadirle una expansión horizontal en
 Para el resto de piezas no debería ser necesario añadir expansión horizontal. En cualquier caso yo le puse -0,1 a 
 los segmentos y a la base para que el rodamiento entrase sin problemas.
 </Pre>
+
+# License
+Hardware: CC-BY-SA
+
+Software: GPLv3
